@@ -9,6 +9,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "October 17 - part 2 - playi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "timing of stack operations - for Big O notation analysis", "timing of stack operations - for Big O notation analysis\timing of stack operations - for Big O notation analysis.vcxproj", "{2FF06DFD-DBF0-48D3-84B5-0050D0586A6E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "October22-using a stack to check for balanced parentheses", "October22-using a stack to check for balanced parentheses\October22-using a stack to check for balanced parentheses.vcxproj", "{4F1505E0-07CC-4353-9AA9-2ADD946685E8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "copilot-generated maze solver - it's AMAZEing", "copilot-generated maze solver - it's AMAZEing\copilot-generated maze solver - it's AMAZEing.vcxproj", "{A45A85A9-ED8D-4247-8985-E174FAFFF3EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +45,22 @@ Global
 		{2FF06DFD-DBF0-48D3-84B5-0050D0586A6E}.Release|x64.Build.0 = Release|x64
 		{2FF06DFD-DBF0-48D3-84B5-0050D0586A6E}.Release|x86.ActiveCfg = Release|Win32
 		{2FF06DFD-DBF0-48D3-84B5-0050D0586A6E}.Release|x86.Build.0 = Release|Win32
+		{4F1505E0-07CC-4353-9AA9-2ADD946685E8}.Debug|x64.ActiveCfg = Debug|x64
+		{4F1505E0-07CC-4353-9AA9-2ADD946685E8}.Debug|x64.Build.0 = Debug|x64
+		{4F1505E0-07CC-4353-9AA9-2ADD946685E8}.Debug|x86.ActiveCfg = Debug|Win32
+		{4F1505E0-07CC-4353-9AA9-2ADD946685E8}.Debug|x86.Build.0 = Debug|Win32
+		{4F1505E0-07CC-4353-9AA9-2ADD946685E8}.Release|x64.ActiveCfg = Release|x64
+		{4F1505E0-07CC-4353-9AA9-2ADD946685E8}.Release|x64.Build.0 = Release|x64
+		{4F1505E0-07CC-4353-9AA9-2ADD946685E8}.Release|x86.ActiveCfg = Release|Win32
+		{4F1505E0-07CC-4353-9AA9-2ADD946685E8}.Release|x86.Build.0 = Release|Win32
+		{A45A85A9-ED8D-4247-8985-E174FAFFF3EF}.Debug|x64.ActiveCfg = Debug|x64
+		{A45A85A9-ED8D-4247-8985-E174FAFFF3EF}.Debug|x64.Build.0 = Debug|x64
+		{A45A85A9-ED8D-4247-8985-E174FAFFF3EF}.Debug|x86.ActiveCfg = Debug|Win32
+		{A45A85A9-ED8D-4247-8985-E174FAFFF3EF}.Debug|x86.Build.0 = Debug|Win32
+		{A45A85A9-ED8D-4247-8985-E174FAFFF3EF}.Release|x64.ActiveCfg = Release|x64
+		{A45A85A9-ED8D-4247-8985-E174FAFFF3EF}.Release|x64.Build.0 = Release|x64
+		{A45A85A9-ED8D-4247-8985-E174FAFFF3EF}.Release|x86.ActiveCfg = Release|Win32
+		{A45A85A9-ED8D-4247-8985-E174FAFFF3EF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
